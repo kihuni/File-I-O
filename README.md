@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## The process of writing and reading files:
 
 - Declare file pointer of type FILE, like below:
@@ -62,3 +63,6 @@
 - Clone the repo and test the programs for yourself and see how every process works. And if you want to learn more:
 
     [GeeksforGeeks](https://www.geeksforgeeks.org/basics-file-handling-c/)
+=======
+## C programs to Open a File, Read from it, And Close the File
+>>>>>>> c697e41ce4bff5c011ac17748703d43058877d5c
