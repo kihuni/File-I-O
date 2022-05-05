@@ -1,4 +1,7 @@
 
+![manipulating files in c](https://github.com/kihuni/File-I-O/blob/main/Manipulatin%20file%20in%20c.png)
+
+
 ## The process of writing and reading files:
 
 - Declare file pointer of type FILE, like below:
