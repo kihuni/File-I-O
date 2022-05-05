@@ -34,33 +34,33 @@
 
 - To read from file, we use fscanf()/fgets():
 
-            ```
+            
             FILE * filePointer;
 
             filePointer = fopen("fileName", "r")
 
             fgets(filePointer,"%s" str);
-            ```
+            
 - To write to a file, we use fprintf()/fputs functions:
 
 
-            ```
+            
             FILE * filePointer;
 
             filePointer = fopen("fileName", "w")
 
             fputs(filePointer,"%s" "we are heros");
-            ```
+            
 
 - Finally, to close a file, we use fclose functions:
-            ```
+            
             FILE * filePointer;
 
             filePointer = fopen("fileName", fileMode
             .......files operations
 
             fclose(filePointer);
-             ```
+          
 ### Conclusion
 
 - Clone the repo and test the programs for yourself and see how every process works. And if you want to learn more:
