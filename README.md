@@ -6,9 +6,9 @@
 
 - Declare file pointer of type FILE, like below:
     
-    This will refer to the file being created/read
+    
 
-    `FILE *filePointer`
+    `This will refer to the file being created/read: FILE *filePointer`
 
 - Write a function to open/read/create the file using fopen()
 
