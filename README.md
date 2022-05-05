@@ -30,7 +30,7 @@
                 “a+” – Searches file. If the file is opened successfully fopen( ) loads it into memory and sets up a pointer which points to the last character in it. If the file doesn’t exist, a new file is created. Returns NULL, if unable to open file.
                 “ab+” – Open for both reading and appending in binary mode. If the file does not exist, it will be created.
 
-                            *N/B The above modes attributes are copied from GEEKSForGEEKS*
+                            *N/B The above modes attributes are copied from GEEKSFforGEEKS*
 
 - To read from file, we use fscanf()/fgets():
 
