@@ -10,7 +10,7 @@
 
     `FILE *filePointer`
 
-- Write a function to read/create the file using fopen()
+- Write a function to open/read/create the file using fopen()
 
     `filePointer = fopen("fileName", fileMode)`
 
