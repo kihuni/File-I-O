@@ -1,1 +1,1 @@
-## C program to Open a File, Read from it, And Close the File
+## C programs to Open a File, Read from it, And Close the File
